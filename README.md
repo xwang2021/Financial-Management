@@ -1,4 +1,4 @@
-## Restaurant Financial Management Software
+## Restaurant Financial Management Software (C#)
 
 ## Overview
 This financial management software allows users to enter income /expense, calculate profit margin, and generate various financial reports.
