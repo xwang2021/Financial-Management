@@ -1,7 +1,7 @@
-## Restaurant Financial Management
+## Restaurant Financial Management Software
 
 ## Overview
-This financial management system allows users to enter income /expense, calculate profit margin, and generate various financial reports.
+This financial management software allows users to enter income /expense, calculate profit margin, and generate various financial reports.
 
 ## Features
 
